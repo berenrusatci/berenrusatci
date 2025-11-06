@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-  <img src="https://github.com/user-attachments/assets/50262919-bca7-4037-af6b-a0db09ddefe9" alt="Makine öğrenimi demosu"style="max-width: 200px; height: auto;">
+  <img src="https://github.com/user-attachments/assets/50262919-bca7-4037-af6b-a0db09ddefe9" style="max-width: 100px; height: 100px;">
 </div>
 
 💫 About Me:
