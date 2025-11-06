@@ -1,9 +1,12 @@
 <div style="text-align: center;">
-  <img src="https://github.com/user-attachments/assets/50262919-bca7-4037-af6b-a0db09ddefe9" alt="Makine öğrenimi demosu">
+  <img src="https://github.com/user-attachments/assets/50262919-bca7-4037-af6b-a0db09ddefe9" alt="Makine öğrenimi demosu"style="max-width: 300px; height: auto;">
 </div>
 
 💫 About Me:
+
 I am currently learning machine learning and deep learning.
+
+I am also develop on Unity.
 
 
 
