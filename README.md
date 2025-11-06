@@ -1,6 +1,7 @@
+![giphy](https://github.com/user-attachments/assets/50262919-bca7-4037-af6b-a0db09ddefe9)
 💫 About Me:
 I am currently learning machine learning and deep learning.
-![giphy](https://github.com/user-attachments/assets/50262919-bca7-4037-af6b-a0db09ddefe9)
+
 
 
 
