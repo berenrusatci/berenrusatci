@@ -2,7 +2,7 @@
   <img src="https://github.com/user-attachments/assets/50262919-bca7-4037-af6b-a0db09ddefe9" style="max-width: 175px; height: 175px;">
 </div>
 
-💫 About Me:
+# 💫 About Me:
 
 I am currently learning machine learning and deep learning.
 
@@ -12,7 +12,7 @@ I am also develop on Unity.
 
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/beren-rusatcı-](https://www.linkedin.com/in/beren-rusatc%C4%B1-600210342/)) 
 
 # 💻 Tech Stack:
