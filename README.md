@@ -1,6 +1,8 @@
-# 💫 About Me:
+💫 About Me:
 I am currently learning machine learning and deep learning.
-![Uploading giphy.gif…]()
+![giphy](https://github.com/user-attachments/assets/50262919-bca7-4037-af6b-a0db09ddefe9)
+
+
 
 
 ## 🌐 Socials:
