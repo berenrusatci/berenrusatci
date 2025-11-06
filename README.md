@@ -1,6 +1,7 @@
 # 💫 About Me:
 I am currently learning machine learning and deep learning.
-https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGJqczNjbW93anJ4M2lhZm5hbnZ1NmxyOHZ2YnJucjFua2swYzFrMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ML15sUZFNyMy0Yv55m/giphy.gif
+![Uploading giphy.gif…]()
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/beren-rusatcı-](https://www.linkedin.com/in/beren-rusatc%C4%B1-600210342/)) 
