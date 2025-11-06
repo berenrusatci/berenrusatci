@@ -2,7 +2,7 @@
   <img src="https://github.com/user-attachments/assets/50262919-bca7-4037-af6b-a0db09ddefe9" style="max-width: 175px; height: 175px;">
 </div>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=BD93F9&lines=Hello%2C+I'm+Beren.;Welcome+to+my+profile!;Learning+Machine+Learning+and+Deep+Learning.&center=true&size=24&speed=100)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=8BE9FD&lines=Hello%2C+I'm+Beren.;Welcome+to+my+profile!;&size=24&speed=100)
 # 💫 About Me:
 
 I am currently learning machine learning and deep learning.
