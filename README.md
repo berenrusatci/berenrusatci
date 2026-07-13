@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-  <img src="https://github.com/user-attachments/assets/50262919-bca7-4037-af6b-a0db09ddefe9" style="max-width: 175px; height: 175px;">
+  <img width="200" height="200" alt="9037219885301151917(1)" src="https://github.com/user-attachments/assets/abe306c2-db6e-456b-ba80-e523d3e3e147" />
 </div>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=8BE9FD&lines=Hello%2C+I'm+Beren.;Welcome+to+my+profile!;&size=24&speed=100)
