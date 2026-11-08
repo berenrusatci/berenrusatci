@@ -2,7 +2,7 @@
   <img src="./assets/header.svg" width="100%" alt="beren rusatçı — computer engineering @ mudanya · ai harnesses, hooks, mcp servers, verification gates" />
 </p>
 
-I'm a Computer Engineering student at Mudanya University. I work on the layer between AI models and the real world: harnesses, hooks, MCP servers and the verification gates that keep an agent honest. My own workflow runs on a second brain: an Obsidian vault with hooks, memory and an assistant that remembers across sessions.
+I'm a Computer Engineering student at Mudanya University. I work on the layer between AI models and the real world: harnesses, hooks, MCP servers and the verification gates that keep an agent honest. My own workflow runs on a second brain: an Obsidian vault with hooks, memory and an assihttps://www.linkedin.com/404/stant that remembers across sessions.
 
 <p align="center">
   <img src="./assets/stack.svg" width="100%" alt="Projects layered from hardware up to agents" />
@@ -41,5 +41,5 @@ I'm a Computer Engineering student at Mudanya University. I work on the layer be
 
 <p align="center">
   <img src="./assets/footer.svg" width="100%" alt="the agent proposes; the tools measure." /><br>
-  <a href="https://www.linkedin.com/in/beren-rusatc%C4%B1-600210342/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/beren-rusatçı">LinkedIn</a>
 </p>
