@@ -1,43 +1,45 @@
-### Beren Rusatçı
+<p align="center">
+  <img src="./assets/header.svg" width="100%" alt="beren rusatçı — computer engineering @ mudanya · ai harnesses, hooks, mcp servers, verification gates" />
+</p>
 
-Computer Engineering student at Mudanya University. I work on the layer between AI models and the real world: harnesses, hooks, MCP servers and the verification gates that keep an agent honest.
+I'm a Computer Engineering student at Mudanya University. I work on the layer between AI models and the real world: harnesses, hooks, MCP servers and the verification gates that keep an agent honest. My own workflow runs on a second brain: an Obsidian vault with hooks, memory and an assistant that remembers across sessions.
 
-> *The agent proposes; the tools measure.*
+<p align="center">
+  <img src="./assets/stack.svg" width="100%" alt="Projects layered from hardware up to agents" />
+</p>
 
+<details>
+<summary><b>The projects behind each layer</b></summary>
 <br>
 
-#### What I build, from silicon up
-
-| Layer | Work | What it shows |
+| Layer | Project | |
 |:--|:--|:--|
-| **Agents** | **Munin** · *private, in progress*<br><sub>Desktop assistant living on the Linux screen edge (Wayland layer-shell + KWin), wired to my second-brain vault.</sub> | Least-privilege tools, privacy by design, a UI that never waits for the model |
-| | [**Agentic-Research**](https://github.com/berenrusatci/Agentic-Research)<br><sub>Multi-role research pipeline: raw answers kept verbatim, then verified against the real codebase.</sub> | Every step logged and auditable |
-| **Software** | [**Co-Pronoia**](https://github.com/berenrusatci/Co-Pronoia)<br><sub>Multi-user, tree-based planning app. Every change is an authored, numbered commit; concurrent conflicts branch instead of overwriting.</sub> | Collaborative data model, TypeScript, Docker |
-| | **Smart Shuttle** · *volunteer team of 7, private*<br><sub>Shuttle management platform. My part: live trip tracking, dynamic stop-skipping and route recompute, RBAC and tenant scoping, KVKK-compliant PII/GPS handling.</sub> | Shipping in a team, against real requirements |
-| **ML** | [**AI-KneeRisk**](https://github.com/berenrusatci/AI-KneeRisk-Sporcularda-Diz-Dejenerasyonu-ve-Osteoartrit-Risk-Tahmininde-Kullan-labilecek-3D-MRI)<br><sub>TÜBİTAK 2209-A: 3D / 2.5D MRI deep learning model for knee degeneration and osteoarthritis risk in athletes, with a no-install Windows demo.</sub> | Medical imaging, PyTorch, end-to-end delivery |
-| **Hardware** | [**kicad-pcb-agent**](https://github.com/berenrusatci/kicad-pcb-agent)<br><sub>Skills and verification tools for an LLM-driven KiCad PCB design agent. Every gate reports what it actually scanned.</sub> | AI-assisted PCB design, MCP |
-| **Systems** | [**zapret-tr-config**](https://github.com/berenrusatci/zapret-tr-config)<br><sub>One-command DPI-bypass setup for Arch-based and Debian systems.</sub> | Linux networking, a heavily customised terminal workflow |
+| **Agents** | **Munin** · *private, in progress* | Desktop assistant on the Linux screen edge (Wayland layer-shell + KWin), wired to my vault |
+| | [**Agentic-Research**](https://github.com/berenrusatci/Agentic-Research) | Multi-role research pipeline; raw answers kept verbatim, then verified against the codebase |
+| **ML** | [**AI-KneeRisk**](https://github.com/berenrusatci/AI-KneeRisk-Sporcularda-Diz-Dejenerasyonu-ve-Osteoartrit-Risk-Tahmininde-Kullan-labilecek-3D-MRI) | TÜBİTAK 2209-A: 3D / 2.5D MRI model for knee osteoarthritis risk, with a no-install Windows demo |
+| **Software** | [**Co-Pronoia**](https://github.com/berenrusatci/Co-Pronoia) | Multi-user tree planner; every change is an authored commit, conflicts branch instead of overwriting |
+| | **Smart Shuttle** · *team of 7, private* | Live trip tracking, dynamic stop-skipping, RBAC and tenant scoping, KVKK-compliant GPS data |
+| **Systems** | [**zapret-tr-config**](https://github.com/berenrusatci/zapret-tr-config) | One-command DPI-bypass setup for Arch and Debian |
+| **Hardware** | [**kicad-pcb-agent**](https://github.com/berenrusatci/kicad-pcb-agent) | Skills and verification tools for an LLM-driven KiCad PCB design agent |
 
-<br>
+</details>
 
 #### How I work
 
 - **Measure, don't claim.** A check that scanned nothing must not report "all clear".
-- **AI is part of the workflow, not a side tool.** I run my own second brain on hooks and MCP, and delegate code to agents while owning the architecture.
+- **AI is part of the workflow, not a side tool.** I delegate code to agents and keep the architecture.
 - **Least privilege by default.** Agents get the narrowest tools that do the job.
 
-<br>
+<p align="center">
+  <img src="./assets/thought.svg" width="100%" alt="Thought experiments: Ship of Theseus for a second brain, the silent check, whose memory" />
+</p>
 
-#### Toolbox
+<p align="center">
+  <code>C</code> · <code>C++</code> · <code>Python</code> · <code>TypeScript</code> · <code>Go</code> · <code>C#</code> · <code>Java</code><br>
+  <code>Claude Agent SDK</code> · <code>MCP</code> · <code>PyTorch</code> · <code>Qt</code> · <code>Docker</code> · <code>KiCad</code> · <code>Arch / Wayland</code>
+</p>
 
-| | |
-|:--|:--|
-| **Languages** | C · C++ · Python · TypeScript · Go · C# · Java |
-| **AI** | Claude Agent SDK · MCP · PyTorch |
-| **Systems** | Linux (Arch) · Wayland / KWin · Qt · Docker |
-| **Hardware** | KiCad · x86-64 internals |
-| **Also into** | Cybersecurity & pentesting · Unity |
-
-<br>
-
-[LinkedIn](https://www.linkedin.com/in/beren-rusatc%C4%B1-600210342/)
+<p align="center">
+  <img src="./assets/footer.svg" width="100%" alt="the agent proposes; the tools measure." /><br>
+  <a href="https://www.linkedin.com/in/beren-rusatc%C4%B1-600210342/">LinkedIn</a>
+</p>

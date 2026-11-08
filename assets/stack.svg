@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="900" height="470" viewBox="0 0 900 470" role="img" aria-label="Projects layered from hardware up to agents">
+<style>text{font-family:ui-monospace, SFMono-Regular, 'JetBrains Mono', Menlo, Consolas, 'Liberation Mono', monospace}@keyframes L0{0%,3.00%{opacity:0;transform:translateY(14px)}8.00%,92%{opacity:1;transform:translateY(0)}97%,100%{opacity:0;transform:translateY(0)}}.L0{animation:L0 10.0s ease-out infinite}@keyframes P0{0%,30.00%{opacity:0}31.50%{opacity:.55}39.00%,100%{opacity:0}}.P0{animation:P0 10.0s ease-out infinite}@keyframes L1{0%,7.50%{opacity:0;transform:translateY(14px)}12.50%,92%{opacity:1;transform:translateY(0)}97%,100%{opacity:0;transform:translateY(0)}}.L1{animation:L1 10.0s ease-out infinite}@keyframes P1{0%,37.00%{opacity:0}38.50%{opacity:.55}46.00%,100%{opacity:0}}.P1{animation:P1 10.0s ease-out infinite}@keyframes L2{0%,12.00%{opacity:0;transform:translateY(14px)}17.00%,92%{opacity:1;transform:translateY(0)}97%,100%{opacity:0;transform:translateY(0)}}.L2{animation:L2 10.0s ease-out infinite}@keyframes P2{0%,44.00%{opacity:0}45.50%{opacity:.55}53.00%,100%{opacity:0}}.P2{animation:P2 10.0s ease-out infinite}@keyframes L3{0%,16.50%{opacity:0;transform:translateY(14px)}21.50%,92%{opacity:1;transform:translateY(0)}97%,100%{opacity:0;transform:translateY(0)}}.L3{animation:L3 10.0s ease-out infinite}@keyframes P3{0%,51.00%{opacity:0}52.50%{opacity:.55}60.00%,100%{opacity:0}}.P3{animation:P3 10.0s ease-out infinite}@keyframes L4{0%,21.00%{opacity:0;transform:translateY(14px)}26.00%,92%{opacity:1;transform:translateY(0)}97%,100%{opacity:0;transform:translateY(0)}}.L4{animation:L4 10.0s ease-out infinite}@keyframes P4{0%,58.00%{opacity:0}59.50%{opacity:.55}67.00%,100%{opacity:0}}.P4{animation:P4 10.0s ease-out infinite}@keyframes sig{0%,30%{transform:translateY(0);opacity:0}31%{opacity:1}62%{transform:translateY(-368px);opacity:1}66%,100%{transform:translateY(-368px);opacity:0}}
+.sig{animation:sig 10.0s cubic-bezier(.5,0,.5,1) infinite}</style>
+<rect x="1" y="1" width="898" height="468" rx="14" fill="#0b0f14" stroke="#232b36"/>
+<text x="34" y="44" fill="#d7dde5" style="font-size:18px;font-weight:700">from silicon up</text>
+<text x="866" y="44" fill="#6b7685" text-anchor="end" style="font-size:13px">every layer is something I built</text>
+<line x1="870" y1="70" x2="870" y2="438" stroke="#232b36" stroke-dasharray="3 5"/>
+<g class="sig"><circle cx="870" cy="438" r="5" fill="#ff9f43"/><circle cx="870" cy="438" r="11" fill="#ff9f43" opacity=".25"/></g>
+<g class="L0">
+<rect x="150" y="374" width="700" height="64" rx="10" fill="#11161d" stroke="#232b36"/>
+<rect class="P0" x="150" y="374" width="700" height="64" rx="10" fill="none" stroke="#c084fc" stroke-width="2"/>
+<rect x="150" y="374" width="5" height="64" rx="2" fill="#c084fc"/>
+<text x="172" y="401" fill="#d7dde5" style="font-size:17px;font-weight:700">kicad-pcb-agent</text>
+<text x="172" y="423" fill="#6b7685" style="font-size:13px">LLM-driven PCB design, gates that report what they scanned</text>
+<text x="130" y="412" fill="#c084fc" text-anchor="end" style="font-size:12px;letter-spacing:2px">HARDWARE</text>
+</g><g class="L1">
+<rect x="150" y="298" width="700" height="64" rx="10" fill="#11161d" stroke="#232b36"/>
+<rect class="P1" x="150" y="298" width="700" height="64" rx="10" fill="none" stroke="#60a5fa" stroke-width="2"/>
+<rect x="150" y="298" width="5" height="64" rx="2" fill="#60a5fa"/>
+<text x="172" y="325" fill="#d7dde5" style="font-size:17px;font-weight:700">zapret-tr-config · arch / wayland</text>
+<text x="172" y="347" fill="#6b7685" style="font-size:13px">Linux networking, a terminal built by hand</text>
+<text x="130" y="336" fill="#60a5fa" text-anchor="end" style="font-size:12px;letter-spacing:2px">SYSTEMS</text>
+</g><g class="L2">
+<rect x="150" y="222" width="700" height="64" rx="10" fill="#11161d" stroke="#232b36"/>
+<rect class="P2" x="150" y="222" width="700" height="64" rx="10" fill="none" stroke="#7ee7ff" stroke-width="2"/>
+<rect x="150" y="222" width="5" height="64" rx="2" fill="#7ee7ff"/>
+<text x="172" y="249" fill="#d7dde5" style="font-size:17px;font-weight:700">Co-Pronoia · Smart Shuttle</text>
+<text x="172" y="271" fill="#6b7685" style="font-size:13px">collaborative data models, shipping in a team of 7</text>
+<text x="130" y="260" fill="#7ee7ff" text-anchor="end" style="font-size:12px;letter-spacing:2px">SOFTWARE</text>
+</g><g class="L3">
+<rect x="150" y="146" width="700" height="64" rx="10" fill="#11161d" stroke="#232b36"/>
+<rect class="P3" x="150" y="146" width="700" height="64" rx="10" fill="none" stroke="#7bd88f" stroke-width="2"/>
+<rect x="150" y="146" width="5" height="64" rx="2" fill="#7bd88f"/>
+<text x="172" y="173" fill="#d7dde5" style="font-size:17px;font-weight:700">AI-KneeRisk · TÜBİTAK 2209-A</text>
+<text x="172" y="195" fill="#6b7685" style="font-size:13px">3D / 2.5D knee MRI risk model, end to end</text>
+<text x="130" y="184" fill="#7bd88f" text-anchor="end" style="font-size:12px;letter-spacing:2px">ML</text>
+</g><g class="L4">
+<rect x="150" y="70" width="700" height="64" rx="10" fill="#11161d" stroke="#232b36"/>
+<rect class="P4" x="150" y="70" width="700" height="64" rx="10" fill="none" stroke="#ff9f43" stroke-width="2"/>
+<rect x="150" y="70" width="5" height="64" rx="2" fill="#ff9f43"/>
+<text x="172" y="97" fill="#d7dde5" style="font-size:17px;font-weight:700">Munin · Agentic-Research</text>
+<text x="172" y="119" fill="#6b7685" style="font-size:13px">a desktop assistant wired to a second brain</text>
+<text x="130" y="108" fill="#ff9f43" text-anchor="end" style="font-size:12px;letter-spacing:2px">AGENTS</text>
+</g>
+</svg>

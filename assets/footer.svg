@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="900" height="120" viewBox="0 0 900 120" role="img" aria-label="the agent proposes; the tools measure.">
+<style>text{font-family:ui-monospace, SFMono-Regular, 'JetBrains Mono', Menlo, Consolas, 'Liberation Mono', monospace}
+@keyframes run{0%{stroke-dashoffset:900}100%{stroke-dashoffset:0}}
+.ln{stroke-dasharray:120 780;animation:run 4s linear infinite}
+@keyframes glow{0%,100%{opacity:.55}50%{opacity:1}}.m{animation:glow 4s ease-in-out infinite}</style>
+<defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#ff9f43" stop-opacity="0"/><stop offset=".5" stop-color="#ff9f43"/><stop offset="1" stop-color="#7ee7ff" stop-opacity="0"/></linearGradient></defs>
+<line x1="0" y1="30" x2="900" y2="30" stroke="#232b36"/>
+<line class="ln" x1="0" y1="30" x2="900" y2="30" stroke="url(#g)" stroke-width="2"/>
+<text class="m" x="233.4" y="76" fill="#ff9f43" textLength="433.2" lengthAdjust="spacingAndGlyphs" style="font-size:19px">the agent proposes; the tools measure.</text>
+</svg>
