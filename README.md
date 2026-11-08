@@ -1,36 +1,43 @@
-<div style="text-align: center;">
-  <img width="300" height="300" alt="9037219885301151917(1)" src="https://github.com/user-attachments/assets/abe306c2-db6e-456b-ba80-e523d3e3e147" />
-</div>
+### Beren Rusatçı
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=8BE9FD&lines=Hello%2C+I'm+Beren.;Welcome+to+my+profile!;&size=24&speed=100)
-# 💫 About Me:
-I'm a Computer Engineering student. My passion for technology is driven by a deep curiosity to understand how systems operate—from bare-metal hardware up to complex software architectures—and bridging these foundations with the technology of the future.
+Computer Engineering student at Mudanya University. I work on the layer between AI models and the real world: harnesses, hooks, MCP servers and the verification gates that keep an agent honest.
 
-I don't treat Artificial Intelligence merely as a tool or a research subject; I strive to embed it into every aspect of my daily workflow, process optimizations, and projects with a futuristic mindset. I am highly interested in **MCPs (Model Context Protocol), system hooks, and AI harnesses**.
+> *The agent proposes; the tools measure.*
 
-### 🛠️ What I'm Working On
+<br>
 
-*   **AI & Machine Learning:** Beyond workflow automation and AI tool integration, I design deep learning models focused on medical image analysis (specifically MRI datasets).
-*   **Hardware & AI-Assisted Design:** I have a strong interest in low-level processor architectures (like x86-64) and system execution mechanisms. I also do foundational **PCB design using KiCad** and am developing projects centered around **AI-assisted PCB design**, merging hardware engineering with artificial intelligence.
-*   **Cybersecurity & Systems:** Actively exploring cybersecurity, penetration testing, and ethical hacking. On the system level, I enjoy configuring advanced Linux environments and crafting highly customized, terminal-based development workflows.
-*   **Backend & Architecture:** Building scalable infrastructures that feature real-time algorithms, relational database optimizations, and efficient API routing.
+#### What I build, from silicon up
 
+| Layer | Work | What it shows |
+|:--|:--|:--|
+| **Agents** | **Munin** · *private, in progress*<br><sub>Desktop assistant living on the Linux screen edge (Wayland layer-shell + KWin), wired to my second-brain vault.</sub> | Least-privilege tools, privacy by design, a UI that never waits for the model |
+| | [**Agentic-Research**](https://github.com/berenrusatci/Agentic-Research)<br><sub>Multi-role research pipeline: raw answers kept verbatim, then verified against the real codebase.</sub> | Every step logged and auditable |
+| **Software** | [**Co-Pronoia**](https://github.com/berenrusatci/Co-Pronoia)<br><sub>Multi-user, tree-based planning app. Every change is an authored, numbered commit; concurrent conflicts branch instead of overwriting.</sub> | Collaborative data model, TypeScript, Docker |
+| | **Smart Shuttle** · *volunteer team of 7, private*<br><sub>Shuttle management platform. My part: live trip tracking, dynamic stop-skipping and route recompute, RBAC and tenant scoping, KVKK-compliant PII/GPS handling.</sub> | Shipping in a team, against real requirements |
+| **ML** | [**AI-KneeRisk**](https://github.com/berenrusatci/AI-KneeRisk-Sporcularda-Diz-Dejenerasyonu-ve-Osteoartrit-Risk-Tahmininde-Kullan-labilecek-3D-MRI)<br><sub>TÜBİTAK 2209-A: 3D / 2.5D MRI deep learning model for knee degeneration and osteoarthritis risk in athletes, with a no-install Windows demo.</sub> | Medical imaging, PyTorch, end-to-end delivery |
+| **Hardware** | [**kicad-pcb-agent**](https://github.com/berenrusatci/kicad-pcb-agent)<br><sub>Skills and verification tools for an LLM-driven KiCad PCB design agent. Every gate reports what it actually scanned.</sub> | AI-assisted PCB design, MCP |
+| **Systems** | [**zapret-tr-config**](https://github.com/berenrusatci/zapret-tr-config)<br><sub>One-command DPI-bypass setup for Arch-based and Debian systems.</sub> | Linux networking, a heavily customised terminal workflow |
 
+<br>
 
-# 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/beren-rusatcı-](https://www.linkedin.com/in/beren-rusatc%C4%B1-600210342/)) 
+#### How I work
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=plastic&logo=unity&logoColor=white) 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=berenrusatci&theme=dracula&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=berenrusatci&theme=dracula&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=berenrusatci&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+- **Measure, don't claim.** A check that scanned nothing must not report "all clear".
+- **AI is part of the workflow, not a side tool.** I run my own second brain on hooks and MCP, and delegate code to agents while owning the architecture.
+- **Least privilege by default.** Agents get the narrowest tools that do the job.
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=berenrusatci&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<br>
 
----
-[![](https://visitcount.itsvg.in/api?id=berenrusatci&icon=0&color=0)](https://visitcount.itsvg.in)
+#### Toolbox
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+| | |
+|:--|:--|
+| **Languages** | C · C++ · Python · TypeScript · Go · C# · Java |
+| **AI** | Claude Agent SDK · MCP · PyTorch |
+| **Systems** | Linux (Arch) · Wayland / KWin · Qt · Docker |
+| **Hardware** | KiCad · x86-64 internals |
+| **Also into** | Cybersecurity & pentesting · Unity |
+
+<br>
+
+[LinkedIn](https://www.linkedin.com/in/beren-rusatc%C4%B1-600210342/)
